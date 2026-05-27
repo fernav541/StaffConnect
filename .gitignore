@@ -18,8 +18,8 @@ local.properties
 
 # Archivos de Android Studio
 *.idea/
-*.xml
 !**/res/**/*.xml
+!**/src/main/AndroidManifest.xml
 
 # Archivos de compilación
 app/build/
